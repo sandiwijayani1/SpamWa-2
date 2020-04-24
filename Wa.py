@@ -195,7 +195,7 @@ def Tokped():
                    
 def Spam():
 	os.system('clear')
-	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
+	print(C+'Wajib SUBCRIBE Njir'+W+' Su !'+C+' :V')
 	sleep(1.5)
 	os.system('xdg-open https://youtube.com/SandiW')
 	os.system('clear')
