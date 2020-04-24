@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 
-# Creator :  ./RanddSoft
-# Team : Black Hat
+# Creator :  ./Sandi W
+# Team : No Team
 # Never Mind
 
 from requests import ConnectionError
